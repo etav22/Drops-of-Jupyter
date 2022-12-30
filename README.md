@@ -17,3 +17,4 @@ Where all the magic happens! All the jupyter notebooks are housed in the `notebo
 | [regression-classification](notebooks/regression-classification.ipynb) | Instructional | Demonstrate two popular problems with custom data in supervised learning: **regression** and **classifcaiton**. |
 | [spaceship-titanic](notebooks/spaceship-titanic.ipynb) | Modelling/New Packages | Using the spaceship titanic dataset from Kaggle, I tested fitting different models with **lightgbm** and **xgboost** (also tried out **optuna** as an optimization tool) |
 | [supervised-unsupervised](notebooks/supervised-unsupervised.ipynb) | Instructional | Similar to the regression-classification notebook, but here I focus on unsupervised learning (and more specifically solely **k-means clustering**)|
+| [naive-bayes](notebooks/naive-bayes.ipynb) | Educational | A notebook using the heart failure dataset from Kaggle to better educate myself on **naive-bayes** models |
